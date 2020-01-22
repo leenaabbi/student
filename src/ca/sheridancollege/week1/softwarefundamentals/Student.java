@@ -11,6 +11,15 @@ package ca.sheridancollege.week1.softwarefundamentals;
  */
 public class Student {
     
+    private status;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
     private String name;
     private double gpa;
     private  String email;
