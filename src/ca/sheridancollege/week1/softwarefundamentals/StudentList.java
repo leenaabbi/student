@@ -12,7 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class StudentList {
     
     public static void main(String[] args) {
-        Student [] sList1= new Student[5];
+       
         Student [] sList= new Student[5];
         
         for (int i=0;i<sList.length;i++)
